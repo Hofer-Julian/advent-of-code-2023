@@ -1,0 +1,7 @@
+name = "advent_of_code_2023"
+uuid = "c064a174-7a0e-435a-8db9-71ff7f57c6ac"
+authors = ["Julian Hofer <julianhofer@gnome.org>"]
+version = "0.1.0"
+
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
